@@ -6,3 +6,6 @@ Features: Movie Search: Type in the name of a movie to find related results. Mov
 How to Use: Clone this repository to your local machine. Run npm install to install the necessary dependencies. Start the application using npm start. Search for movies by typing their name in the search bar. Setup:
 
 You can obtain your own OMDB API key by signing up at OMDB API. After obtaining your key, set it in the appropriate environment variable or within the code.
+
+![{611F6953-2B45-4350-A1F4-BAAC1F9FBE86}](https://github.com/user-attachments/assets/3baf61c0-a8e4-4486-bde5-52d96678e8c4)
+
