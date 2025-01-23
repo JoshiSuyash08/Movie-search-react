@@ -20,3 +20,6 @@ Setup:
 
 You can obtain your own OMDB API key by signing up at OMDB API.
 After obtaining your key, set it in the appropriate environment variable or within the code.
+
+![{218CFEA9-DE6B-4CCD-BA40-CF4F126BE4EA}](https://github.com/user-attachments/assets/cbf18b54-fcf6-4a48-9de9-b2c530f41ae5)
+
